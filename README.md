@@ -1,10 +1,10 @@
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     HERO SECTION                          -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                          HERO SECTION                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=300&section=header&text=yuanshikai168&fontSize=60&fontColor=58A6FF&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1+Full-Stack+%E2%9A%A1+Security+%E2%9A%A1+Cloud-Native&descAlignY=62&descAlign=50&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=320&section=header&text=yuanshikai168&fontSize=60&fontColor=58A6FF&animation=twinkling&fontAlignY=35&desc=Full-Stack+%7C+Security+%7C+Cloud-Native&descAlignY=60&descAlign=50&descSize=18" width="100%" />
 
 <p>
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=600&color=58A6FF&background=0D111700&center=true&vCenter=true&width=700&lines=%3E+whoami;Full-Stack+Engineer+%26+Security+Architect;%3E+cat+%2Fetc%2Fpassion;Cloud-Native+%7C+Microservices+%7C+DevSecOps;%3E+echo+%22Open+Source+Contributor+%26+Mentor%22" alt="Typing SVG" />
@@ -21,106 +21,169 @@
   <img src="https://img.shields.io/github/followers/yuanshikai168?style=flat-square&color=238636&logo=github&label=Followers&logoColor=white" alt="followers" />
   <img src="https://img.shields.io/github/stars/yuanshikai168?style=flat-square&color=D29922&logo=github&label=Stars&logoColor=white" alt="stars" />
   <img src="https://komarev.com/ghpvc/?username=yuanshikai168&color=blueviolet&style=flat-square&label=Visitors" alt="visitors" />
+  <img src="https://img.shields.io/badge/Open_to-Hiring-238636?style=flat-square" alt="hiring" />
 </p>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    TERMINAL NAV                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        BOOT SEQUENCE                              -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
-```bash
-┌──────────────────────────────────────────────────────────────────┐
-│  yuanshikai168@github:~$  ./navigate.sh                          │
-├──────────────────────────────────────────────────────────────────┤
-│                                                                  │
-│  [1] 🎯 About       [2] 🛠️ Skills       [3] 📂 Projects         │
-│  [4] 🏆 Awards      [5] 🚀 Quick Start  [6] 💻 Code             │
-│  [7] 📊 Stats       [8] 🤝 Contribute   [9] 📬 Contact          │
-│                                                                  │
-│  yuanshikai168@github:~$  _                                      │
-└──────────────────────────────────────────────────────────────────┘
+```
+ ██╗  ██╗███████╗██╗   ██╗██████╗ ██╗   ██╗
+ ██║  ██║██╔════╝██║   ██║██╔══██╗██║   ██║
+ ███████║█████╗  ██║   ██║██████╔╝███████║
+ ██╔══██║██╔══╝  ╚██╗ ██╔╝██╔══██╗██╔══██║
+ ██║  ██║███████╗ ╚████╔╝ ██████╔╝██║  ██║
+ ╚═╝  ╚═╝╚══════╝  ╚═══╝  ╚═════╝ ╚═╝  ╚═╝
+```
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SYSTEM BOOT                                                                ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  BIOS CHECK  ──────  OK                                                      ║
+║  MEMORY      ──────  128 GB ECC DDR5  ──────  OK                             ║
+║  CPU         ──────  Full-Stack Engine v3.0  ──────  OK                      ║
+║  SECURITY    ──────  Firewall ACTIVE / IDS ACTIVE  ──────  OK                ║
+║  NETWORK     ──────  Cloud-Native Stack LOADED  ──────  OK                   ║
+║  COFFEE      ──────  ☕☕☕☕☕ UNLIMITED  ──────  CRITICAL                     ║
+║                                                                              ║
+║  [███████████████████████████████████████████████████████] 100%               ║
+║                                                                              ║
+║  System ready. Loading profile...                                             ║
+║                                                                              ║
+║  yuanshikai168@github:~$  _                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     ABOUT ME                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      TERMINAL NAVIGATION                          -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  ~/profile $  ls -la                                                         ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  drwxr-xr-x  🎯 about/         System Dashboard & Bio                        ║
+║  drwxr-xr-x  🛠️  skills/        Tech Stack & Proficiency                     ║
+║  drwxr-xr-x  📂 projects/      Featured Work & Repos                         ║
+║  drwxr-xr-x  🏆 awards/        Certifications & Achievements                 ║
+║  drwxr-xr-x  🔥 now/           What I'm Working On                           ║
+║  drwxr-xr-x  🚀 quickstart/    Clone & Run Guide                             ║
+║  drwxr-xr-x  💻 code/          Sample Code Snippets                          ║
+║  drwxr-xr-x  📊 stats/         GitHub Analytics                              ║
+║  drwxr-xr-x  📝 blog/          Recent Articles                               ║
+║  drwxr-xr-x  🖥️  setup/         Dev Environment                              ║
+║  drwxr-xr-x  🤝 contribute/    Collaboration Guide                           ║
+║  drwxr-xr-x  📬 contact/       Get In Touch                                  ║
+║                                                                              ║
+║  ~/profile $  _                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        ABOUT ME                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20ABOUT%20ME%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fetc%2Fprofile%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td width="48%" valign="top">
 
-#### `>` 当前任务
-
-```diff
-+ 🏗️ 设计与构建高可用分布式系统
-+ 🔐 推动安全左移，安全融入开发全流程
-+ ☁️ 云原生应用与 DevSecOps 自动化
-+ 📖 开源社区贡献 & 技术分享
-+ 🎓 系统设计 & 算法优化
-```
-
-#### `>` 正在加载
+#### `systemctl status yuanshikai168`
 
 ```diff
-! Rust 系统编程与高性能并发
-! eBPF 内核级可观测性
-! Zero Trust 安全架构
+● yuanshikai168.service — Full-Stack Engineer & Security Architect
+     Loaded: loaded (/etc/passion/fullstack.conf)
+     Active: active (running) since 2020
+     Memory: unlimited (coffee-powered)
+
++ Tasks:
++   🏗️  Building resilient distributed systems
++   🔐  Embedding security into the SDLC
++   ☁️  Architecting cloud-native solutions
++   📖  Contributing to open source
++   🎓  Studying system design & algorithms
+
+! Pending Upgrades:
+!   Rust systems programming
+!   eBPF kernel observability
+!   Zero Trust architecture
 ```
 
 </td>
-<td width="50%" valign="top">
+<td width="52%" valign="top">
 
-#### `~/.config/profile`
+#### `cat ~/.config/identity.yml`
 
 ```yaml
-╭──────────────────────────────╮
-│  role:    Full-Stack / Security Architect  │
-│  base:    China                            │
-│  edu:     Computer Science                 │
-│  focus:   Distributed · Security · Cloud   │
-│  fuel:    ☕☕☕☕☕ (unlimited)              │
-│  ide:     VS Code / Neovim                │
-│  os:      Linux / macOS                    │
-│  shell:   zsh + tmux                      │
-╰──────────────────────────────╯
+# ═══════════════════════════════════════════
+#  PERSONAL CONFIGURATION
+# ═══════════════════════════════════════════
+
+identity:
+  name:   yuanshikai168
+  role:   Full-Stack Engineer
+  alias:  Security Architect
+  base:   China
+  edu:    Computer Science
+
+environment:
+  focus:  [Distributed, Security, Cloud]
+  fuel:   coffee://unlimited
+  ide:    [VS Code, Neovim]
+  os:     [Linux, macOS]
+  shell:  zsh + tmux
+  theme:  Tokyo Night
+
+expertise:
+  ask_me:
+    - Microservice architecture design
+    - Application security hardening
+    - CI/CD pipeline engineering
+    - Cloud-native migration strategy
 ```
-
-#### `>` Ask me about
-
-- 微服务架构设计
-- 应用安全加固
-- CI/CD 流水线
-- 云原生迁移策略
 
 </td>
 </tr>
 </table>
 
 > ```
-> "Security is not an add-on, it's a design gene."
-> Good engineering = Clean Design + Rigorous Security + Reliable Ops
+> ┌─ Philosophy ─────────────────────────────────────────────────────────────┐
+> │                                                                          │
+> │  "Security is not an add-on — it's a design gene."                       │
+> │                                                                          │
+> │  Good Engineering = Clean Design                                         │
+> │                  + Rigorous Security                                     │
+> │                  + Reliable Operations                                   │
+> │                                                                          │
+> └──────────────────────────────────────────────────────────────────────────┘
 > ```
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      SKILLS                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        TECH STACK                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20TECH%20STACK%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fusr%2Fbin%2Fstack%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
@@ -183,30 +246,51 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-#### `>` Proficiency Matrix
+#### `>` Proficiency Scan
 
 ```
-╔══════════════════════════════════════════════════════════╗
-║  Python       ████████████████████░░░░░░░░░░  95%       ║
-║  JavaScript   ███████████████████░░░░░░░░░░░  90%       ║
-║  SQL          ███████████████████░░░░░░░░░░░  90%       ║
-║  TypeScript   ██████████████████░░░░░░░░░░░░  85%       ║
-║  Golang       ████████████████░░░░░░░░░░░░░░  80%       ║
-║  Shell        ██████████████░░░░░░░░░░░░░░░░  70%       ║
-║  Java         █████████████░░░░░░░░░░░░░░░░░  65%       ║
-║  Rust         ██████████░░░░░░░░░░░░░░░░░░░░  50%       ║
-╚══════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  SKILL PROFICIENCY MATRIX                                                    ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  Python       ████████████████████░░░░░░░░░░  95%  ██████  EXPERT           ║
+║  JavaScript   ███████████████████░░░░░░░░░░░  90%  ██████  EXPERT           ║
+║  SQL          ███████████████████░░░░░░░░░░░  90%  ██████  EXPERT           ║
+║  TypeScript   ██████████████████░░░░░░░░░░░░  85%  █████░  ADVANCED         ║
+║  Golang       ████████████████░░░░░░░░░░░░░░  80%  █████░  ADVANCED         ║
+║  Shell        ██████████████░░░░░░░░░░░░░░░░  70%  ████░░  PROFICIENT       ║
+║  Java         █████████████░░░░░░░░░░░░░░░░░  65%  ████░░  PROFICIENT       ║
+║  Rust         ██████████░░░░░░░░░░░░░░░░░░░░  50%  ███░░░  INTERMEDIATE     ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+#### `>` Coding Activity
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  WEEKLY CODING METRICS                                                       ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  Python     ████████████████████  52.3%   18h 24m                           ║
+║  TypeScript █████████████░░░░░░░  24.1%    8h 30m                           ║
+║  Go         ████████░░░░░░░░░░░░  12.7%    4h 28m                           ║
+║  Shell      ███░░░░░░░░░░░░░░░░░   5.8%    2h 02m                           ║
+║  Other      ██░░░░░░░░░░░░░░░░░░   5.1%    1h 47m                           ║
+║                                                                              ║
+║  Total: 35h 11m across 142 commits this week                                ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     PROJECTS                              -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        PROJECTS                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20PROJECTS%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fhome%2Fprojects%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
@@ -215,32 +299,42 @@
     <td width="50%" valign="top">
 
 ```
-╔══════════════════════════════════════╗
-║  🏗️ Awesome-Microservices           ║
-╠══════════════════════════════════════╣
-║  ▸ 服务发现 · 负载均衡 · 熔断器      ║
-║  ▸ 分布式链路追踪与日志聚合           ║
-║  ▸ Docker Compose 一键部署            ║
-╠══════════════════════════════════════╣
-║  [Go] [Docker] [K8s]                 ║
-║  >>> github.com/yuanshikai168/p1     ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║  🏗️ Awesome-Microservices              [ACTIVE]  ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  ▸ Service discovery & load balancing            ║
+║  ▸ Circuit breaker & distributed tracing         ║
+║  ▸ Docker Compose one-click deploy               ║
+║                                                  ║
+║  ┌─ Stack ───────────────────────────────────┐   ║
+║  │  [Go] [Docker] [K8s] [gRPC]               │   ║
+║  └───────────────────────────────────────────┘   ║
+║                                                  ║
+║  ⭐ 2.4k   🍴 380   📅 Updated 2 days ago       ║
+║  >>> github.com/yuanshikai168/project1           ║
+╚══════════════════════════════════════════════════╝
 ```
 
 </td>
     <td width="50%" valign="top">
 
 ```
-╔══════════════════════════════════════╗
-║  🔐 SecureAPI                        ║
-╠══════════════════════════════════════╣
-║  ▸ JWT + RBAC 认证授权体系           ║
-║  ▸ 速率限制与输入验证中间件           ║
-║  ▸ 自动化安全审计 & OWASP 合规       ║
-╠══════════════════════════════════════╣
-║  [Python] [FastAPI] [Redis]          ║
-║  >>> github.com/yuanshikai168/p2     ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║  🔐 SecureAPI                          [ACTIVE]  ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  ▸ JWT + RBAC auth system                        ║
+║  ▸ Rate limiting & input validation              ║
+║  ▸ Auto security audit & OWASP compliance        ║
+║                                                  ║
+║  ┌─ Stack ───────────────────────────────────┐   ║
+║  │  [Python] [FastAPI] [Redis] [JWT]          │   ║
+║  └───────────────────────────────────────────┘   ║
+║                                                  ║
+║  ⭐ 1.8k   🍴 220   📅 Updated 5 days ago       ║
+║  >>> github.com/yuanshikai168/project2           ║
+╚══════════════════════════════════════════════════╝
 ```
 
 </td>
@@ -249,32 +343,42 @@
     <td width="50%" valign="top">
 
 ```
-╔══════════════════════════════════════╗
-║  ☁️ DevOps-Automation                ║
-╠══════════════════════════════════════╣
-║  ▸ 一键部署 AWS/Azure 多区域环境     ║
-║  ▸ 完整 CI/CD 流水线模板库           ║
-║  ▸ 监控告警 & 成本优化看板            ║
-╠══════════════════════════════════════╣
-║  [Terraform] [AWS] [GH Actions]      ║
-║  >>> github.com/yuanshikai168/p3     ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║  ☁️ DevOps-Automation                  [ACTIVE]  ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  ▸ One-click AWS/Azure multi-region deploy       ║
+║  ▸ Full CI/CD pipeline template library          ║
+║  ▸ Monitoring alerts & cost optimization         ║
+║                                                  ║
+║  ┌─ Stack ───────────────────────────────────┐   ║
+║  │  [Terraform] [AWS] [GH Actions] [K8s]      │   ║
+║  └───────────────────────────────────────────┘   ║
+║                                                  ║
+║  ⭐ 3.1k   🍴 510   📅 Updated today            ║
+║  >>> github.com/yuanshikai168/project3           ║
+╚══════════════════════════════════════════════════╝
 ```
 
 </td>
     <td width="50%" valign="top">
 
 ```
-╔══════════════════════════════════════╗
-║  📊 Data Pipeline                    ║
-╠══════════════════════════════════════╣
-║  ▸ Kafka 流式计算 + Spark 批处理     ║
-║  ▸ 自动化 ETL 与数据质量校验         ║
-║  ▸ Grafana 可视化监控看板             ║
-╠══════════════════════════════════════╣
-║  [Python] [Kafka] [Spark]            ║
-║  >>> github.com/yuanshikai168/p4     ║
-╚══════════════════════════════════════╝
+╔══════════════════════════════════════════════════╗
+║  📊 Data Pipeline                      [BETA]    ║
+╠══════════════════════════════════════════════════╣
+║                                                  ║
+║  ▸ Kafka streaming + Spark batch processing      ║
+║  ▸ Automated ETL & data quality checks           ║
+║  ▸ Grafana real-time monitoring dashboard        ║
+║                                                  ║
+║  ┌─ Stack ───────────────────────────────────┐   ║
+║  │  [Python] [Kafka] [Spark] [Grafana]        │   ║
+║  └───────────────────────────────────────────┘   ║
+║                                                  ║
+║  ⭐ 960    🍴 130   📅 Updated 1 week ago       ║
+║  >>> github.com/yuanshikai168/project4           ║
+╚══════════════════════════════════════════════════╝
 ```
 
 </td>
@@ -282,78 +386,130 @@
 </table>
 
 <details>
-<summary><b>📚 学习路线图 & 研究笔记</b></summary>
+<summary><b>📚 Learning Roadmap & Research Notes</b></summary>
 
 ```mermaid
 graph LR
-    A["算法基础"] --> B["数据结构"]
-    B --> C["系统设计"]
-    C --> D["分布式系统"]
-    D --> E["云原生架构"]
-    A --> F["安全基础"]
-    F --> G["应用安全"]
+    A["Algorithms"] --> B["Data Structures"]
+    B --> C["System Design"]
+    C --> D["Distributed Systems"]
+    D --> E["Cloud-Native Arch"]
+    A --> F["Security Basics"]
+    F --> G["App Security"]
     G --> H["DevSecOps"]
-    E --> I["全栈架构师"]
+    E --> I["Full-Stack Architect"]
     H --> I
 ```
 
-| 领域 | 内容 | 状态 |
+| Domain | Content | Status |
 |:---|:---|:---:|
-| 🧮 算法 | LeetCode 300+ 题详解 | ✅ |
-| 🏛️ 系统设计 | CAP / Paxos / Raft 案例 | ✅ |
-| 🔍 安全研究 | CVE 复现 · Web 攻防 | 🔄 |
-| ⚙️ DevOps | CI/CD · IaC · SRE | 📝 |
-| 🦀 Rust | 从零到高性能并发 | 🌱 |
+| 🧮 Algorithms | LeetCode 300+ problems with solutions | ✅ Active |
+| 🏛️ System Design | CAP / Paxos / Raft case studies | ✅ Active |
+| 🔍 Security Research | CVE reproduction & web pentesting | 🔄 In Progress |
+| ⚙️ DevOps | CI/CD · IaC · SRE patterns | 📝 Planned |
+| 🦀 Rust | Systems programming: zero to concurrent | 🌱 Starting |
 
 </details>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      AWARDS                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      CERTIFICATIONS                               -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20CERTIFICATIONS%20%26%20AWARDS%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fetc%2Fcerts%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
 ```
-┌─────────────────────────────────────────────────────────────────────┐
-│                                                                     │
-│  ☁️  AWS Solutions Architect — Professional      ✅ Obtained        │
-│  ☸️  Kubernetes CKAD                              ✅ Obtained        │
-│  🐳  Docker Certified Associate (DCA)             ✅ Obtained        │
-│  🛡️  CEH (Certified Ethical Hacker)               🔄 In Progress     │
-│  ⭐  GitHub Star Contributor (10+ projects)       🎖️                 │
-│  🏅  Hackathon Winner — 2025 Cloud Computing     🏆                 │
-│                                                                     │
-└─────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  CERTIFICATIONS & ACHIEVEMENTS                                               ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  [PASS]  ☁️  AWS Solutions Architect — Professional     Verified ✓           ║
+║  [PASS]  ☸️  Kubernetes CKAD                             Verified ✓           ║
+║  [PASS]  🐳  Docker Certified Associate (DCA)            Verified ✓           ║
+║  [....]  🛡️  CEH (Certified Ethical Hacker)              In Progress          ║
+║  [STAR]  ⭐  GitHub Star Contributor — 10+ projects      Awarded              ║
+║  [WIN]   🏅  Hackathon Winner — 2025 Cloud Computing     1st Place 🏆        ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    QUICK START                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        NOW SECTION                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20QUICK%20START%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fproc%2Fnow%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+
+</div>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  CURRENTLY WORKING ON                                                       ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  🔥  Building a Rust-based CLI tool for infra provisioning                   ║
+║      Progress: [████████████████░░░░] 80%                                    ║
+║                                                                              ║
+║  📖  Writing: "eBPF Observability for Cloud-Native Apps"                     ║
+║      Progress: [██████░░░░░░░░░░░░░] 40%                                    ║
+║                                                                              ║
+║  🎯  Preparing for CKA (Certified Kubernetes Administrator)                  ║
+║      Progress: [█████████████░░░░░░] 90%                                    ║
+║                                                                              ║
+║  🦀  Learning Rust — reading "The Book" chapter 18                           ║
+║      Progress: [█████████░░░░░░░░░░] 55%                                    ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  🎵  NOW PLAYING:                                                            ║
+║      Spotify — Bohemian Rhapsody — Queen                                     ║
+║      ░░░░░░░░░░░░░░▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░  2:34 / 5:55        ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<p align="center">
+  <a href="https://open.spotify.com/user/youruser">
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=58A6FF" alt="Spotify Now Playing" />
+  </a>
+</p>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       QUICK START                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/───%20%2Frun%2Fquickstart%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
 #### `>` Prerequisites
 
-| Tool | Version | Purpose |
-|:---|:---:|:---|
-| Python | `≥ 3.10` | Backend runtime |
-| Node.js | `≥ 18.0` | Frontend runtime |
-| Docker | `≥ 24.0` | Containerization _(optional)_ |
-| Go | `≥ 1.21` | Go compilation _(optional)_ |
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  PREREQUISITES                                                               ║
+╠══════════════════╦══════════════╦════════════════════════════════════════════╣
+║  Tool            ║  Version     ║  Purpose                                   ║
+╠══════════════════╬══════════════╬════════════════════════════════════════════╣
+║  Python          ║  >= 3.10     ║  Backend runtime                           ║
+║  Node.js         ║  >= 18.0     ║  Frontend runtime                          ║
+║  Docker          ║  >= 24.0     ║  Containerization (optional)               ║
+║  Go              ║  >= 1.21     ║  Go compilation (optional)                 ║
+╚══════════════════╩══════════════╩════════════════════════════════════════════╝
+```
 
-#### `>` Clone & Run
+#### `>` Clone & Launch
 
 ```bash
 # ─── Clone ────────────────────────────────────
@@ -414,15 +570,19 @@ npm test -- --coverage                           # JS/TS
 <details>
 <summary><b>📋 start.sh Commands</b></summary>
 
-| Command | Description |
-|:---|:---|
-| `./start.sh` | Auto-detect & launch _(default)_ |
-| `./start.sh deps` | Install dependencies only |
-| `./start.sh docker` | Start Docker containers |
-| `./start.sh migrate` | Run database migrations |
-| `./start.sh test` | Run test suites |
-| `./start.sh clean` | Clean caches & temp files |
-| `./start.sh help` | Show help |
+```
+╔════════════════════════════╦═════════════════════════════════════════════════╗
+║  Command                   ║  Description                                    ║
+╠════════════════════════════╬═════════════════════════════════════════════════╣
+║  ./start.sh                ║  Auto-detect & launch (default)                 ║
+║  ./start.sh deps           ║  Install dependencies only                      ║
+║  ./start.sh docker         ║  Start Docker containers                        ║
+║  ./start.sh migrate        ║  Run database migrations                        ║
+║  ./start.sh test           ║  Run test suites                                ║
+║  ./start.sh clean          ║  Clean caches & temp files                      ║
+║  ./start.sh help           ║  Show help                                      ║
+╚════════════════════════════╩═════════════════════════════════════════════════╝
+```
 
 </details>
 
@@ -431,7 +591,7 @@ npm test -- --coverage                           # JS/TS
 ```
 yuanshikai168/
 ├── .github/workflows/
-│   └── ci.yml                # CI/CD pipeline
+│   └── ci.yml                # CI/CD pipeline config
 ├── assets/                   # Static resources
 ├── CONTRIBUTING.md           # Contribution guide
 ├── README.md                 # You are here ✨
@@ -442,13 +602,13 @@ yuanshikai168/
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CODE SAMPLES                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       CODE SAMPLES                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20CODE%20SAMPLES%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fhome%2Fcode%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
@@ -586,13 +746,13 @@ func main() {
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   GITHUB STATS                            -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       GITHUB STATS                                -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20GITHUB%20STATS%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fvar%2Flog%2Fstats%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
@@ -609,106 +769,258 @@ func main() {
   <img src="https://github-profile-trophy.vercel.app/?username=yuanshikai168&theme=algolia&no-frame=true&margin-w=15&row=1&column=7" alt="Trophies" />
 </p>
 
+#### `>` Contribution Heatmap
+
 <p align="center">
   <img src="https://ghchart.rshah.org/58A6FF/yuanshikai168" alt="Contribution Graph" width="100%" />
 </p>
 
+#### `>` Recent Activity
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuanshikai168&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+</p>
+
+#### `>` Snake Eats My Contributions
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/yuanshikai168/yuanshikai168/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+</p>
+
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CONTRIBUTING                           -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      RECENT BLOG POSTS                            -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20CONTRIBUTING%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fhome%2Fblog%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
 ```
-Fork → Clone → Branch → Code → Test → Commit → Push → PR
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  RECENT ARTICLES                                                             ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  📄  [2026-05-18]  Building Resilient Microservices with Go                  ║
+║       用 Go 构建高韧性微服务                                                 ║
+║       #microservices #go #resilience #distributed-systems                    ║
+║                                                                              ║
+║  📄  [2026-05-05]  Zero Trust Architecture: A Practical Guide               ║
+║       零信任架构实战指南                                                     ║
+║       #security #zero-trust #architecture #best-practices                    ║
+║                                                                              ║
+║  📄  [2026-04-22]  Kubernetes Cost Optimization: Save 40% on Cloud Bills     ║
+║       K8s 成本优化：省下 40% 云账单                                          ║
+║       #kubernetes #cloud #cost-optimization #devops                          ║
+║                                                                              ║
+║  📄  [2026-04-10]  From Monolith to Microservices: Migration Playbook       ║
+║       从单体到微服务：迁移实战手册                                           ║
+║       #migration #architecture #refactoring #case-study                      ║
+║                                                                              ║
+║  >>> More articles at blog.yuanshikai168.dev                                 ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
-
-| Convention | Format |
-|:---|:---|
-| **Branches** | `feature/xxx` · `fix/xxx` · `docs/xxx` · `refactor/xxx` |
-| **Commits** | Conventional Commits — `feat` `fix` `docs` `style` `refactor` `perf` `test` `chore` |
-| **PR Review** | CI pass + ≥1 maintainer approval + test coverage ≥ 80% |
-
-> Full details: [CONTRIBUTING.md](CONTRIBUTING.md)
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                    CI / CD PIPELINE                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                       DEV SETUP                                   -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20CI%2FCD%20PIPELINE%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fetc%2Fsetup%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+
+</div>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+#### `neofetch`
+
+```
+       _,met$$$$$gg.           yuanshikai168@devstation
+    ,g$$$$$$$$$$$$$$$P.       ──────────────────────────
+  ,g$$P"     """Y$$.".        OS:      Arch Linux x86_64
+ ,$$P'              `$$$.      Kernel:  6.7.0-zen
+',$$P       ,ggs.     `$$b:    Shell:   zsh 5.9
+`d$$'     ,$P"'   .    $$$     Editor:  Neovim / VS Code
+ $$P      d$'     ,    $$P     Terminal: Alacritty + tmux
+ $$:      $$.   -    ,d$$'     Theme:   Tokyo Night
+ $$;      Y$b._   _,d$P'       Font:    JetBrains Mono NF
+ Y$$.    `.`"Y$$$$P"'          CPU:     AMD Ryzen 9 7950X
+ `$$b      "-.__               GPU:     NVIDIA RTX 4090
+  `Y$$                         RAM:     64 GB DDR5
+   `Y$$.                       Disk:    2 TB NVMe SSD
+     `$$b.                     Uptime:  ∞ (coffee-powered)
+       `Y$$b.
+          `"Y$b._
+              `"""
+```
+
+</td>
+<td width="50%" valign="top">
+
+#### `cat ~/.config/tools.json`
+
+```json
+{
+  "terminal": {
+    "emulator":    "Alacritty",
+    "multiplexer": "tmux",
+    "shell":       "zsh + starship"
+  },
+  "editor": {
+    "primary":     "Neovim + LazyVim",
+    "secondary":   "VS Code",
+    "font":        "JetBrains Mono NF",
+    "theme":       "Tokyo Night"
+  },
+  "productivity": {
+    "notes":       "Obsidian",
+    "diagrams":    "Excalidraw",
+    "api_test":    "HTTPie + Bruno",
+    "db_client":   "DBeaver"
+  },
+  "devops": {
+    "ci_cd":       "GitHub Actions",
+    "iac":         "Terraform + Pulumi",
+    "monitoring":  "Grafana Stack",
+    "containers":  "Docker + Podman"
+  },
+  "hardware": {
+    "keyboard":    "Keychron Q1 Pro",
+    "mouse":       "Logitech MX Master 3S",
+    "monitor":     "LG 32UN880 4K"
+  }
+}
+```
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      CONTRIBUTING                                 -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/───%20%2Fdev%2Fcontribute%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
 ```
-Push / PR
-   │
-   ▼
-┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐    ┌──────────┐
-│ 🔍 Lint  │───▶│ 🧪 Test  │───▶│ 📊 Qual  │───▶│ 🛡️ Sec   │───▶│ 🐳 Build │
-│ Super-   │    │ pytest   │    │SonarQube │    │Trivy +   │    │ Docker   │
-│ Linter   │    │ jest     │    │          │    │ OWASP    │    │          │
-└──────────┘    └──────────┘    └──────────┘    └──────────┘    └──────────┘
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  CONTRIBUTION WORKFLOW                                                       ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  Fork ──▶ Clone ──▶ Branch ──▶ Code ──▶ Test ──▶ Commit ──▶ Push ──▶ PR   ║
+║                                                                              ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  Branch Naming:   feature/xxx · fix/xxx · docs/xxx · refactor/xxx           ║
+║  Commit Format:   Conventional Commits (feat/fix/docs/style/refactor/...)   ║
+║  PR Requirements: CI pass + >= 1 approval + coverage >= 80%                 ║
+║                                                                              ║
+║  Full guide: CONTRIBUTING.md                                                 ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
+
+<br/>
+
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                      CI / CD PIPELINE                             -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/───%20%2Fdev%2Fpipeline%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+
+</div>
+
+```
+  Push / PR
+     │
+     ▼
+  ╔══════════════╗     ╔══════════════╗     ╔══════════════╗
+  ║  🔍 LINT     ║────▶║  🧪 TEST     ║────▶║  📊 QUAL     ║
+  ║ Super-Linter ║     ║ pytest/jest  ║     ║  SonarQube   ║
+  ╚══════════════╝     ╚══════════════╝     ╚══════════════╝
+                                                  │
+                                                  ▼
+  ╔══════════════╗     ╔══════════════╗     ╔══════════════╗
+  ║  ✅ DEPLOY   ║◀────║  🐳 BUILD    ║◀────║  🛡️  SEC     ║
+  ║   Release    ║     ║   Docker     ║     ║ Trivy+OWASP  ║
+  ╚══════════════╝     ╚══════════════╝     ╚══════════════╝
 ```
 
 > Config: [.github/workflows/ci.yml](.github/workflows/ci.yml)
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                     CONTACT                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        CONTACT                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20CONTACT%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fdev%2Ftcp%2Fconnect%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
+
+```
+╔══════════════════════════════════════════════════════════════════════════════╗
+║  ESTABLISHING CONNECTION...                                                  ║
+╠══════════════════════════════════════════════════════════════════════════════╣
+║                                                                              ║
+║  📧  Email       hello@example.com                                           ║
+║  🐙  GitHub      github.com/yuanshikai168                                    ║
+║  💼  LinkedIn    linkedin.com/in/yourprofile                                 ║
+║  🐦  Twitter     twitter.com/yourhandle                                      ║
+║  🐛  Issues      github.com/yuanshikai168/yuanshikai168/issues              ║
+║  💬  Discuss     github.com/yuanshikai168/yuanshikai168/discussions          ║
+║                                                                              ║
+║  Connection established. Awaiting input...                                    ║
+║                                                                              ║
+║  yuanshikai168@github:~$  _                                                  ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
 <p align="center">
   <a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/📧_Email-hello@example.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/yuanshikai168"><img src="https://img.shields.io/badge/🐙_GitHub-@yuanshikai168-181717?style=for-the-badge&logo=github" /></a>
-</p>
-<p align="center">
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/💼_LinkedIn-yourprofile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/🐦_Twitter-@handle-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/yuanshikai168/yuanshikai168/issues">🐛 Report Bug</a>
-  &nbsp;·&nbsp;
-  <a href="https://github.com/yuanshikai168/yuanshikai168/discussions">💬 Discussions</a>
-</p>
-
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      QUOTES                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                        QUOTES                                     -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ```
-┌──────────────────────────────────────────────────────────────────────┐
-│                                                                      │
-│  "There are only two hard things in Computer Science:                │
-│   cache invalidation and naming things."                             │
-│                                                    — Phil Karlton    │
-│                                                                      │
-└──────────────────────────────────────────────────────────────────────┘
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                                                                              ║
+║   "There are only two hard things in Computer Science:                       ║
+║    cache invalidation and naming things."                                    ║
+║                                                                              ║
+║                                            — Phil Karlton                   ║
+║                                                                              ║
+╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <details>
-<summary><b>More quotes</b></summary>
+<summary><b>💬 More quotes</b></summary>
 
 > *"First, solve the problem. Then, write the code."* — John Johnson
 
@@ -716,19 +1028,23 @@ Push / PR
 
 > *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
 
+> *"The best error message is the one that never shows up."* — Thomas Fuchs
+
+> *"Talk is cheap. Show me the code."* — Linus Torvalds
+
 </details>
 
 </div>
 
 <br/>
 
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                      FOOTER                               -->
-<!-- ═══════════════════════════════════════════════════════════ -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
+<!--                         FOOTER                                    -->
+<!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=150&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20yuanshikai168&fontSize=24&fontColor=58A6FF&animation=fadeIn&fontAlignY=40&desc=%22Code+is+law.+Security+is+religion.+Innovation+is+evolution.%22&descAlignY=65" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=160&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20yuanshikai168&fontSize=24&fontColor=58A6FF&animation=twinkling&fontAlignY=38&desc=%22Code+is+law.+Security+is+religion.+Innovation+is+evolution.%22&descAlignY=62" width="100%" />
 
 <p>
   <a href="https://github.com/yuanshikai168/yuanshikai168/stargazers">
@@ -740,8 +1056,17 @@ Push / PR
   <img src="https://img.shields.io/github/license/yuanshikai168/yuanshikai168?style=flat-square&color=238636&label=License" alt="license" />
 </p>
 
+```
+╔══════════════════════════════════════════════════╗
+║                                                  ║
+║   If this profile inspired you, drop a ⭐ !      ║
+║   Fork it, remix it, make it your own.           ║
+║                                                  ║
+╚══════════════════════════════════════════════════╝
+```
+
 <p>
-  <a href="#"><b>⬆️ Back to Top</b></a>
+  <a href="#"><b>⬆ Back to Top</b></a>
 </p>
 
 </div>
