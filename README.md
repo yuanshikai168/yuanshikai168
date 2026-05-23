@@ -1,27 +1,27 @@
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                          HERO SECTION                             -->
+<!--                          顶部横幅                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=320&section=header&text=yuanshikai168&fontSize=60&fontColor=58A6FF&animation=twinkling&fontAlignY=35&desc=Full-Stack+%7C+Security+%7C+Cloud-Native&descAlignY=60&descAlign=50&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=320&section=header&text=yuanshikai168&fontSize=60&fontColor=58A6FF&animation=twinkling&fontAlignY=35&desc=%E5%85%A8%E6%A0%88%E5%BC%80%E5%8F%91+%7C+%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84+%7C+%E4%BA%91%E5%8E%9F%E7%94%9F&descAlignY=60&descAlign=50&descSize=18" width="100%" />
 
 <p>
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=600&color=58A6FF&background=0D111700&center=true&vCenter=true&width=700&lines=%3E+whoami;Full-Stack+Engineer+%26+Security+Architect;%3E+cat+%2Fetc%2Fpassion;Cloud-Native+%7C+Microservices+%7C+DevSecOps;%3E+echo+%22Open+Source+Contributor+%26+Mentor%22" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&duration=3000&pause=600&color=58A6FF&background=0D111700&center=true&vCenter=true&width=700&lines=%3E+whoami;%E5%85%A8%E6%A0%88%E5%B7%A5%E7%A8%8B%E5%B8%88+%26+%E5%AE%89%E5%85%A8%E6%9E%B6%E6%9E%84%E5%B8%88;%3E+cat+%2Fetc%2Fpassion;%E4%BA%91%E5%8E%9F%E7%94%9F+%7C+%E5%BE%AE%E6%9C%8D%E5%8A%A1+%7C+DevSecOps;%3E+echo+%22%E5%BC%80%E6%BA%90%E8%B4%A1%E7%8C%AE%E8%80%85+%26+%E6%8A%80%E6%9C%AF%E5%AF%BC%E5%B8%88%22" alt="Typing SVG" />
 </p>
 
 <p>
   <a href="https://github.com/yuanshikai168"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-  <a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="mailto:hello@example.com"><img src="https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/></a>
   <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 </p>
 
 <p>
-  <img src="https://img.shields.io/github/followers/yuanshikai168?style=flat-square&color=238636&logo=github&label=Followers&logoColor=white" alt="followers" />
-  <img src="https://img.shields.io/github/stars/yuanshikai168?style=flat-square&color=D29922&logo=github&label=Stars&logoColor=white" alt="stars" />
-  <img src="https://komarev.com/ghpvc/?username=yuanshikai168&color=blueviolet&style=flat-square&label=Visitors" alt="visitors" />
-  <img src="https://img.shields.io/badge/Open_to-Hiring-238636?style=flat-square" alt="hiring" />
+  <img src="https://img.shields.io/github/followers/yuanshikai168?style=flat-square&color=238636&logo=github&label=%E5%85%B3%E6%B3%A8%E8%80%85&logoColor=white" alt="followers" />
+  <img src="https://img.shields.io/github/stars/yuanshikai168?style=flat-square&color=D29922&logo=github&label=%E6%98%9F%E6%A0%87%E6%80%BB%E6%95%B0&logoColor=white" alt="stars" />
+  <img src="https://komarev.com/ghpvc/?username=yuanshikai168&color=blueviolet&style=flat-square&label=%E8%AE%BF%E5%AE%A2" alt="visitors" />
+  <img src="https://img.shields.io/badge/%E6%AD%A3%E5%9C%A8-%E6%B1%82%E8%81%98%E4%B8%AD-238636?style=flat-square" alt="hiring" />
 </p>
 
 </div>
@@ -29,7 +29,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        BOOT SEQUENCE                              -->
+<!--                          启动序列                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ```
@@ -43,19 +43,19 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  SYSTEM BOOT                                                                ║
+║  系统启动中...                                                              ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  BIOS CHECK  ──────  OK                                                      ║
-║  MEMORY      ──────  128 GB ECC DDR5  ──────  OK                             ║
-║  CPU         ──────  Full-Stack Engine v3.0  ──────  OK                      ║
-║  SECURITY    ──────  Firewall ACTIVE / IDS ACTIVE  ──────  OK                ║
-║  NETWORK     ──────  Cloud-Native Stack LOADED  ──────  OK                   ║
-║  COFFEE      ──────  ☕☕☕☕☕ UNLIMITED  ──────  CRITICAL                     ║
+║  自检 BIOS  ──────  正常                                                     ║
+║  内存检测  ──────  128 GB ECC DDR5  ──────  正常                            ║
+║  处理器    ──────  全栈引擎 v3.0  ──────  正常                               ║
+║  安全模块  ──────  防火墙已启用 / 入侵检测已启用  ──────  正常                ║
+║  网络协议  ──────  云原生技术栈已加载  ──────  正常                          ║
+║  咖啡因    ──────  ☕☕☕☕☕ 无限续杯  ──────  严重依赖                       ║
 ║                                                                              ║
 ║  [███████████████████████████████████████████████████████] 100%               ║
 ║                                                                              ║
-║  System ready. Loading profile...                                             ║
+║  系统就绪，正在加载个人档案...                                                ║
 ║                                                                              ║
 ║  yuanshikai168@github:~$  _                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
@@ -64,7 +64,7 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      TERMINAL NAVIGATION                          -->
+<!--                        终端导航                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 ```
@@ -72,18 +72,18 @@
 ║  ~/profile $  ls -la                                                         ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  drwxr-xr-x  🎯 about/         System Dashboard & Bio                        ║
-║  drwxr-xr-x  🛠️  skills/        Tech Stack & Proficiency                     ║
-║  drwxr-xr-x  📂 projects/      Featured Work & Repos                         ║
-║  drwxr-xr-x  🏆 awards/        Certifications & Achievements                 ║
-║  drwxr-xr-x  🔥 now/           What I'm Working On                           ║
-║  drwxr-xr-x  🚀 quickstart/    Clone & Run Guide                             ║
-║  drwxr-xr-x  💻 code/          Sample Code Snippets                          ║
-║  drwxr-xr-x  📊 stats/         GitHub Analytics                              ║
-║  drwxr-xr-x  📝 blog/          Recent Articles                               ║
-║  drwxr-xr-x  🖥️  setup/         Dev Environment                              ║
-║  drwxr-xr-x  🤝 contribute/    Collaboration Guide                           ║
-║  drwxr-xr-x  📬 contact/       Get In Touch                                  ║
+║  drwxr-xr-x  🎯 about/         个人简介与仪表盘                             ║
+║  drwxr-xr-x  🛠️  skills/        技术栈与熟练度                               ║
+║  drwxr-xr-x  📂 projects/      精选项目与仓库                               ║
+║  drwxr-xr-x  🏆 awards/        认证与荣誉                                   ║
+║  drwxr-xr-x  🔥 now/           当前正在做                                   ║
+║  drwxr-xr-x  🚀 quickstart/    快速上手指南                                 ║
+║  drwxr-xr-x  💻 code/          代码片段示例                                 ║
+║  drwxr-xr-x  📊 stats/         GitHub 数据分析                              ║
+║  drwxr-xr-x  📝 blog/          近期文章                                     ║
+║  drwxr-xr-x  🖥️  setup/         开发环境配置                                 ║
+║  drwxr-xr-x  🤝 contribute/    协作指南                                     ║
+║  drwxr-xr-x  📬 contact/       联系方式                                     ║
 ║                                                                              ║
 ║  ~/profile $  _                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
@@ -92,12 +92,12 @@
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        ABOUT ME                                   -->
+<!--                        关于我                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20%2Fetc%2Fprofile%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fetc%2Fprofile%20%E4%B8%AA%E4%BA%BA%E6%A1%A3%E6%A1%88%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
@@ -108,22 +108,22 @@
 #### `systemctl status yuanshikai168`
 
 ```diff
-● yuanshikai168.service — Full-Stack Engineer & Security Architect
-     Loaded: loaded (/etc/passion/fullstack.conf)
-     Active: active (running) since 2020
-     Memory: unlimited (coffee-powered)
+● yuanshikai168.service — 全栈工程师 & 安全架构师
+     加载路径: loaded (/etc/passion/fullstack.conf)
+     运行状态: active (running) 自 2020 年起
+     内存占用: 无上限 (咖啡驱动)
 
-+ Tasks:
-+   🏗️  Building resilient distributed systems
-+   🔐  Embedding security into the SDLC
-+   ☁️  Architecting cloud-native solutions
-+   📖  Contributing to open source
-+   🎓  Studying system design & algorithms
++ 当前任务:
++   🏗️  构建高韧性分布式系统
++   🔐  将安全融入软件开发生命周期
++   ☁️  设计云原生解决方案
++   📖  参与开源社区贡献
++   🎓  研究系统设计与算法优化
 
-! Pending Upgrades:
-!   Rust systems programming
-!   eBPF kernel observability
-!   Zero Trust architecture
+! 待升级技能:
+!   Rust 系统编程
+!   eBPF 内核级可观测性
+!   零信任安全架构
 ```
 
 </td>
@@ -133,30 +133,30 @@
 
 ```yaml
 # ═══════════════════════════════════════════
-#  PERSONAL CONFIGURATION
+#  个人配置档案
 # ═══════════════════════════════════════════
 
-identity:
-  name:   yuanshikai168
-  role:   Full-Stack Engineer
-  alias:  Security Architect
-  base:   China
-  edu:    Computer Science
+身份:
+  用户名:  yuanshikai168
+  角色:    全栈工程师
+  别名:    安全架构师
+  坐标:    中国
+  学历:    计算机科学
 
-environment:
-  focus:  [Distributed, Security, Cloud]
-  fuel:   coffee://unlimited
-  ide:    [VS Code, Neovim]
-  os:     [Linux, macOS]
-  shell:  zsh + tmux
-  theme:  Tokyo Night
+环境:
+  专注领域:  [分布式, 安全, 云原生]
+  能量来源:  coffee://无限续杯
+  编辑器:    [VS Code, Neovim]
+  操作系统:  [Linux, macOS]
+  终端:      zsh + tmux
+  主题:      Tokyo Night
 
-expertise:
-  ask_me:
-    - Microservice architecture design
-    - Application security hardening
-    - CI/CD pipeline engineering
-    - Cloud-native migration strategy
+专业领域:
+  可以问我:
+    - 微服务架构设计
+    - 应用安全加固
+    - CI/CD 流水线工程
+    - 云原生迁移策略
 ```
 
 </td>
@@ -164,30 +164,30 @@ expertise:
 </table>
 
 > ```
-> ┌─ Philosophy ─────────────────────────────────────────────────────────────┐
-> │                                                                          │
-> │  "Security is not an add-on — it's a design gene."                       │
-> │                                                                          │
-> │  Good Engineering = Clean Design                                         │
-> │                  + Rigorous Security                                     │
-> │                  + Reliable Operations                                   │
-> │                                                                          │
-> └──────────────────────────────────────────────────────────────────────────┘
+> ┌─ 工程哲学 ─────────────────────────────────────────────────────────────┐
+> │                                                                        │
+> │  "安全不是附加功能，而是设计基因。"                                      │
+> │                                                                        │
+> │  优秀工程 = 整洁设计                                                    │
+> │            + 严谨安全                                                   │
+> │            + 可靠运维                                                   │
+> │                                                                        │
+> └────────────────────────────────────────────────────────────────────────┘
 > ```
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        TECH STACK                                 -->
+<!--                        技术栈                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20%2Fusr%2Fbin%2Fstack%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fusr%2Fbin%2Fstack%20%E6%8A%80%E6%9C%AF%E6%A0%88%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
-#### `>` Languages
+#### `>` 编程语言
 
 <p align="center">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB" />
@@ -200,7 +200,7 @@ expertise:
   <img src="https://img.shields.io/badge/Shell-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
 </p>
 
-#### `>` Frameworks & Runtime
+#### `>` 框架与运行时
 
 <p align="center">
   <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
@@ -213,7 +213,7 @@ expertise:
   <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white" />
 </p>
 
-#### `>` Data & Infrastructure
+#### `>` 数据与基础设施
 
 <p align="center">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
@@ -235,7 +235,7 @@ expertise:
   <img src="https://img.shields.io/badge/GCP-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </p>
 
-#### `>` Security & Observability
+#### `>` 安全与可观测性
 
 <p align="center">
   <img src="https://img.shields.io/badge/OWASP-000000?style=for-the-badge&logo=owasp&logoColor=white" />
@@ -246,51 +246,51 @@ expertise:
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-#### `>` Proficiency Scan
+#### `>` 熟练度扫描
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  SKILL PROFICIENCY MATRIX                                                    ║
+║  技能熟练度矩阵                                                              ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  Python       ████████████████████░░░░░░░░░░  95%  ██████  EXPERT           ║
-║  JavaScript   ███████████████████░░░░░░░░░░░  90%  ██████  EXPERT           ║
-║  SQL          ███████████████████░░░░░░░░░░░  90%  ██████  EXPERT           ║
-║  TypeScript   ██████████████████░░░░░░░░░░░░  85%  █████░  ADVANCED         ║
-║  Golang       ████████████████░░░░░░░░░░░░░░  80%  █████░  ADVANCED         ║
-║  Shell        ██████████████░░░░░░░░░░░░░░░░  70%  ████░░  PROFICIENT       ║
-║  Java         █████████████░░░░░░░░░░░░░░░░░  65%  ████░░  PROFICIENT       ║
-║  Rust         ██████████░░░░░░░░░░░░░░░░░░░░  50%  ███░░░  INTERMEDIATE     ║
+║  Python       ████████████████████░░░░░░░░░░  95%  ██████  专家             ║
+║  JavaScript   ███████████████████░░░░░░░░░░░  90%  ██████  专家             ║
+║  SQL          ███████████████████░░░░░░░░░░░  90%  ██████  专家             ║
+║  TypeScript   ██████████████████░░░░░░░░░░░░  85%  █████░  高级             ║
+║  Golang       ████████████████░░░░░░░░░░░░░░  80%  █████░  高级             ║
+║  Shell        ██████████████░░░░░░░░░░░░░░░░  70%  ████░░  熟练             ║
+║  Java         █████████████░░░░░░░░░░░░░░░░░  65%  ████░░  熟练             ║
+║  Rust         ██████████░░░░░░░░░░░░░░░░░░░░  50%  ███░░░  中级             ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
-#### `>` Coding Activity
+#### `>` 编码活跃度
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  WEEKLY CODING METRICS                                                       ║
+║  本周编码统计                                                                ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  Python     ████████████████████  52.3%   18h 24m                           ║
-║  TypeScript █████████████░░░░░░░  24.1%    8h 30m                           ║
-║  Go         ████████░░░░░░░░░░░░  12.7%    4h 28m                           ║
-║  Shell      ███░░░░░░░░░░░░░░░░░   5.8%    2h 02m                           ║
-║  Other      ██░░░░░░░░░░░░░░░░░░   5.1%    1h 47m                           ║
+║  Python     ████████████████████  52.3%   18小时24分                        ║
+║  TypeScript █████████████░░░░░░░  24.1%    8小时30分                        ║
+║  Go         ████████░░░░░░░░░░░░  12.7%    4小时28分                        ║
+║  Shell      ███░░░░░░░░░░░░░░░░░   5.8%    2小时02分                        ║
+║  其他       ██░░░░░░░░░░░░░░░░░░   5.1%    1小时47分                        ║
 ║                                                                              ║
-║  Total: 35h 11m across 142 commits this week                                ║
+║  总计: 35小时11分，本周共142次提交                                           ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        PROJECTS                                   -->
+<!--                        精选项目                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20%2Fhome%2Fprojects%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fhome%2Fprojects%20%E7%B2%BE%E9%80%89%E9%A1%B9%E7%9B%AE%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
@@ -300,18 +300,18 @@ expertise:
 
 ```
 ╔══════════════════════════════════════════════════╗
-║  🏗️ Awesome-Microservices              [ACTIVE]  ║
+║  🏗️ 微服务精选                         [活跃中]  ║
 ╠══════════════════════════════════════════════════╣
 ║                                                  ║
-║  ▸ Service discovery & load balancing            ║
-║  ▸ Circuit breaker & distributed tracing         ║
-║  ▸ Docker Compose one-click deploy               ║
+║  ▸ 服务发现与负载均衡                             ║
+║  ▸ 熔断器与分布式链路追踪                         ║
+║  ▸ Docker Compose 一键部署                        ║
 ║                                                  ║
-║  ┌─ Stack ───────────────────────────────────┐   ║
+║  ┌─ 技术栈 ─────────────────────────────────┐   ║
 ║  │  [Go] [Docker] [K8s] [gRPC]               │   ║
 ║  └───────────────────────────────────────────┘   ║
 ║                                                  ║
-║  ⭐ 2.4k   🍴 380   📅 Updated 2 days ago       ║
+║  ⭐ 2.4k   🍴 380   📅 2天前更新                 ║
 ║  >>> github.com/yuanshikai168/project1           ║
 ╚══════════════════════════════════════════════════╝
 ```
@@ -321,18 +321,18 @@ expertise:
 
 ```
 ╔══════════════════════════════════════════════════╗
-║  🔐 SecureAPI                          [ACTIVE]  ║
+║  🔐 安全API                            [活跃中]  ║
 ╠══════════════════════════════════════════════════╣
 ║                                                  ║
-║  ▸ JWT + RBAC auth system                        ║
-║  ▸ Rate limiting & input validation              ║
-║  ▸ Auto security audit & OWASP compliance        ║
+║  ▸ JWT + RBAC 认证授权体系                        ║
+║  ▸ 速率限制与输入验证                             ║
+║  ▸ 自动化安全审计 & OWASP 合规                    ║
 ║                                                  ║
-║  ┌─ Stack ───────────────────────────────────┐   ║
+║  ┌─ 技术栈 ─────────────────────────────────┐   ║
 ║  │  [Python] [FastAPI] [Redis] [JWT]          │   ║
 ║  └───────────────────────────────────────────┘   ║
 ║                                                  ║
-║  ⭐ 1.8k   🍴 220   📅 Updated 5 days ago       ║
+║  ⭐ 1.8k   🍴 220   📅 5天前更新                 ║
 ║  >>> github.com/yuanshikai168/project2           ║
 ╚══════════════════════════════════════════════════╝
 ```
@@ -344,18 +344,18 @@ expertise:
 
 ```
 ╔══════════════════════════════════════════════════╗
-║  ☁️ DevOps-Automation                  [ACTIVE]  ║
+║  ☁️ DevOps自动化                       [活跃中]  ║
 ╠══════════════════════════════════════════════════╣
 ║                                                  ║
-║  ▸ One-click AWS/Azure multi-region deploy       ║
-║  ▸ Full CI/CD pipeline template library          ║
-║  ▸ Monitoring alerts & cost optimization         ║
+║  ▸ 一键部署 AWS/Azure 多区域环境                  ║
+║  ▸ 完整 CI/CD 流水线模板库                        ║
+║  ▸ 监控告警与成本优化                             ║
 ║                                                  ║
-║  ┌─ Stack ───────────────────────────────────┐   ║
+║  ┌─ 技术栈 ─────────────────────────────────┐   ║
 ║  │  [Terraform] [AWS] [GH Actions] [K8s]      │   ║
 ║  └───────────────────────────────────────────┘   ║
 ║                                                  ║
-║  ⭐ 3.1k   🍴 510   📅 Updated today            ║
+║  ⭐ 3.1k   🍴 510   📅 今天更新                  ║
 ║  >>> github.com/yuanshikai168/project3           ║
 ╚══════════════════════════════════════════════════╝
 ```
@@ -365,18 +365,18 @@ expertise:
 
 ```
 ╔══════════════════════════════════════════════════╗
-║  📊 Data Pipeline                      [BETA]    ║
+║  📊 数据管道                           [测试中]  ║
 ╠══════════════════════════════════════════════════╣
 ║                                                  ║
-║  ▸ Kafka streaming + Spark batch processing      ║
-║  ▸ Automated ETL & data quality checks           ║
-║  ▸ Grafana real-time monitoring dashboard        ║
+║  ▸ Kafka 流式计算 + Spark 批处理                  ║
+║  ▸ 自动化 ETL 与数据质量校验                      ║
+║  ▸ Grafana 实时监控看板                           ║
 ║                                                  ║
-║  ┌─ Stack ───────────────────────────────────┐   ║
+║  ┌─ 技术栈 ─────────────────────────────────┐   ║
 ║  │  [Python] [Kafka] [Spark] [Grafana]        │   ║
 ║  └───────────────────────────────────────────┘   ║
 ║                                                  ║
-║  ⭐ 960    🍴 130   📅 Updated 1 week ago       ║
+║  ⭐ 960    🍴 130   📅 1周前更新                  ║
 ║  >>> github.com/yuanshikai168/project4           ║
 ╚══════════════════════════════════════════════════╝
 ```
@@ -386,54 +386,54 @@ expertise:
 </table>
 
 <details>
-<summary><b>📚 Learning Roadmap & Research Notes</b></summary>
+<summary><b>📚 学习路线图与研究笔记</b></summary>
 
 ```mermaid
 graph LR
-    A["Algorithms"] --> B["Data Structures"]
-    B --> C["System Design"]
-    C --> D["Distributed Systems"]
-    D --> E["Cloud-Native Arch"]
-    A --> F["Security Basics"]
-    F --> G["App Security"]
+    A["算法"] --> B["数据结构"]
+    B --> C["系统设计"]
+    C --> D["分布式系统"]
+    D --> E["云原生架构"]
+    A --> F["安全基础"]
+    F --> G["应用安全"]
     G --> H["DevSecOps"]
-    E --> I["Full-Stack Architect"]
+    E --> I["全栈架构师"]
     H --> I
 ```
 
-| Domain | Content | Status |
+| 领域 | 内容 | 状态 |
 |:---|:---|:---:|
-| 🧮 Algorithms | LeetCode 300+ problems with solutions | ✅ Active |
-| 🏛️ System Design | CAP / Paxos / Raft case studies | ✅ Active |
-| 🔍 Security Research | CVE reproduction & web pentesting | 🔄 In Progress |
-| ⚙️ DevOps | CI/CD · IaC · SRE patterns | 📝 Planned |
-| 🦀 Rust | Systems programming: zero to concurrent | 🌱 Starting |
+| 🧮 算法 | LeetCode 300+ 题详解 | ✅ 进行中 |
+| 🏛️ 系统设计 | CAP / Paxos / Raft 案例分析 | ✅ 进行中 |
+| 🔍 安全研究 | CVE 复现与 Web 渗透测试 | 🔄 进行中 |
+| ⚙️ DevOps | CI/CD · IaC · SRE 实践 | 📝 计划中 |
+| 🦀 Rust | 从零到高性能并发编程 | 🌱 起步中 |
 
 </details>
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      CERTIFICATIONS                               -->
+<!--                        认证与荣誉                                  -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20%2Fetc%2Fcerts%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fetc%2Fcerts%20%E8%AE%A4%E8%AF%81%E8%8D%A3%E8%AA%89%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  CERTIFICATIONS & ACHIEVEMENTS                                               ║
+║  认证与荣誉                                                                  ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  [PASS]  ☁️  AWS Solutions Architect — Professional     Verified ✓           ║
-║  [PASS]  ☸️  Kubernetes CKAD                             Verified ✓           ║
-║  [PASS]  🐳  Docker Certified Associate (DCA)            Verified ✓           ║
-║  [....]  🛡️  CEH (Certified Ethical Hacker)              In Progress          ║
-║  [STAR]  ⭐  GitHub Star Contributor — 10+ projects      Awarded              ║
-║  [WIN]   🏅  Hackathon Winner — 2025 Cloud Computing     1st Place 🏆        ║
+║  [通过]  ☁️  AWS 解决方案架构师 — Professional    已验证 ✓                    ║
+║  [通过]  ☸️  Kubernetes CKAD                      已验证 ✓                    ║
+║  [通过]  🐳  Docker 认证工程师 (DCA)               已验证 ✓                    ║
+║  [备考]  🛡️  CEH (认证道德黑客)                    备考中                      ║
+║  [荣誉]  ⭐  GitHub Star 贡献者 — 10+ 项目         已授予                      ║
+║  [获奖]  🏅  黑客松冠军 — 2025 云计算               第一名 🏆                  ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
@@ -441,75 +441,77 @@ graph LR
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        NOW SECTION                                -->
+<!--                        当前动态                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20%2Fproc%2Fnow%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fproc%2Fnow%20%E5%BD%93%E5%89%8D%E5%8A%A8%E6%80%81%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  CURRENTLY WORKING ON                                                       ║
+║  正在做的事情                                                                ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  🔥  Building a Rust-based CLI tool for infra provisioning                   ║
-║      Progress: [████████████████░░░░] 80%                                    ║
+║  🔥  用 Rust 构建基础设施自动化 CLI 工具                                     ║
+║      进度: [████████████████░░░░] 80%                                         ║
 ║                                                                              ║
-║  📖  Writing: "eBPF Observability for Cloud-Native Apps"                     ║
-║      Progress: [██████░░░░░░░░░░░░░] 40%                                    ║
+║  📖  撰写: 《eBPF 云原生应用可观测性实战》                                    ║
+║      进度: [██████░░░░░░░░░░░░░] 40%                                         ║
 ║                                                                              ║
-║  🎯  Preparing for CKA (Certified Kubernetes Administrator)                  ║
-║      Progress: [█████████████░░░░░░] 90%                                    ║
+║  🎯  备考 CKA (Kubernetes 认证管理员)                                        ║
+║      进度: [█████████████░░░░░░] 90%                                         ║
 ║                                                                              ║
-║  🦀  Learning Rust — reading "The Book" chapter 18                           ║
-║      Progress: [█████████░░░░░░░░░░] 55%                                    ║
+║  🦀  学习 Rust — 正在阅读《Rust 程序设计语言》第 18 章                       ║
+║      进度: [█████████░░░░░░░░░░] 55%                                         ║
 ║                                                                              ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  🎵  NOW PLAYING:                                                            ║
+║  🎵  正在播放:                                                               ║
 ║      Spotify — Bohemian Rhapsody — Queen                                     ║
 ║      ░░░░░░░░░░░░░░▓▓▓▓▓▓▓▓▓▓░░░░░░░░░░░░░░░░░░░░░░░░░  2:34 / 5:55        ║
 ║                                                                              ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
+<!-- Spotify 动态组件需要配置 Novatorem 服务，暂时移除
 <p align="center">
   <a href="https://open.spotify.com/user/youruser">
-    <img src="https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=58A6FF" alt="Spotify Now Playing" />
+    <img src="https://novatorem.vercel.app/api/spotify?background_color=0D1117&border_color=58A6FF" alt="Spotify" />
   </a>
 </p>
+-->
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       QUICK START                                 -->
+<!--                        快速上手                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20%2Frun%2Fquickstart%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Frun%2Fquickstart%20%E5%BF%AB%E9%80%9F%E4%B8%8A%E6%89%8B%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
-#### `>` Prerequisites
+#### `>` 前置条件
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  PREREQUISITES                                                               ║
+║  环境要求                                                                    ║
 ╠══════════════════╦══════════════╦════════════════════════════════════════════╣
-║  Tool            ║  Version     ║  Purpose                                   ║
+║  工具            ║  版本        ║  用途                                      ║
 ╠══════════════════╬══════════════╬════════════════════════════════════════════╣
-║  Python          ║  >= 3.10     ║  Backend runtime                           ║
-║  Node.js         ║  >= 18.0     ║  Frontend runtime                          ║
-║  Docker          ║  >= 24.0     ║  Containerization (optional)               ║
-║  Go              ║  >= 1.21     ║  Go compilation (optional)                 ║
+║  Python          ║  >= 3.10     ║  后端运行时                                ║
+║  Node.js         ║  >= 18.0     ║  前端运行时                                ║
+║  Docker          ║  >= 24.0     ║  容器化 (可选)                             ║
+║  Go              ║  >= 1.21     ║  Go 编译 (可选)                            ║
 ╚══════════════════╩══════════════╩════════════════════════════════════════════╝
 ```
 
-#### `>` Clone & Launch
+#### `>` 克隆与启动
 
 ```bash
 # ─── Clone ────────────────────────────────────
@@ -525,7 +527,7 @@ bash start.sh
 ```
 
 <details>
-<summary><b>📦 Manual Setup</b></summary>
+<summary><b>📦 手动安装</b></summary>
 
 ```bash
 # ── Python ──
@@ -557,7 +559,7 @@ docker-compose up -d
 </details>
 
 <details>
-<summary><b>🧪 Testing</b></summary>
+<summary><b>🧪 测试</b></summary>
 
 ```bash
 pytest tests/ -v --cov=src --cov-report=html   # Python
@@ -568,52 +570,52 @@ npm test -- --coverage                           # JS/TS
 </details>
 
 <details>
-<summary><b>📋 start.sh Commands</b></summary>
+<summary><b>📋 start.sh 命令一览</b></summary>
 
 ```
 ╔════════════════════════════╦═════════════════════════════════════════════════╗
-║  Command                   ║  Description                                    ║
+║  命令                      ║  说明                                           ║
 ╠════════════════════════════╬═════════════════════════════════════════════════╣
-║  ./start.sh                ║  Auto-detect & launch (default)                 ║
-║  ./start.sh deps           ║  Install dependencies only                      ║
-║  ./start.sh docker         ║  Start Docker containers                        ║
-║  ./start.sh migrate        ║  Run database migrations                        ║
-║  ./start.sh test           ║  Run test suites                                ║
-║  ./start.sh clean          ║  Clean caches & temp files                      ║
-║  ./start.sh help           ║  Show help                                      ║
+║  ./start.sh                ║  自动检测并启动 (默认)                          ║
+║  ./start.sh deps           ║  仅安装依赖                                     ║
+║  ./start.sh docker         ║  启动 Docker 容器                               ║
+║  ./start.sh migrate        ║  执行数据库迁移                                 ║
+║  ./start.sh test           ║  运行测试套件                                   ║
+║  ./start.sh clean          ║  清理缓存与临时文件                             ║
+║  ./start.sh help           ║  显示帮助                                       ║
 ╚════════════════════════════╩═════════════════════════════════════════════════╝
 ```
 
 </details>
 
-#### `>` Repo Structure
+#### `>` 仓库结构
 
 ```
 yuanshikai168/
 ├── .github/workflows/
-│   └── ci.yml                # CI/CD pipeline config
-├── assets/                   # Static resources
-├── CONTRIBUTING.md           # Contribution guide
-├── README.md                 # You are here ✨
-├── package.json-example      # Node.js deps example
-├── requirements-example.txt  # Python deps example
-└── start.sh                  # One-click launcher
+│   └── ci.yml                # CI/CD 流水线配置
+├── assets/                   # 静态资源
+├── CONTRIBUTING.md           # 贡献指南
+├── README.md                 # 你正在看的文件 ✨
+├── package.json-example      # Node.js 依赖示例
+├── requirements-example.txt  # Python 依赖示例
+└── start.sh                  # 一键启动脚本
 ```
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       CODE SAMPLES                                -->
+<!--                        代码示例                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20%2Fhome%2Fcode%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fhome%2Fcode%20%E4%BB%A3%E7%A0%81%E7%A4%BA%E4%BE%8B%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
 <details>
-<summary><b>🐍 Python — Async API (FastAPI + Connection Pool)</b></summary>
+<summary><b>🐍 Python — 异步 API（FastAPI + 连接池）</b></summary>
 
 ```python
 from fastapi import FastAPI, Depends, HTTPException, status
@@ -648,7 +650,7 @@ async def get_data(credentials=Depends(security)):
 </details>
 
 <details>
-<summary><b>⚛️ React — Dashboard (Hooks + Error Boundary)</b></summary>
+<summary><b>⚛️ React — 仪表盘（Hooks + 错误边界）</b></summary>
 
 ```jsx
 import React, { useState, useEffect, useCallback } from 'react';
@@ -695,7 +697,7 @@ export const Dashboard = () => {
 </details>
 
 <details>
-<summary><b>🔵 Go — Concurrent HTTP Fetcher (Worker Pool)</b></summary>
+<summary><b>🔵 Go — 并发 HTTP 请求器（Worker Pool 模式）</b></summary>
 
 ```go
 package main
@@ -747,92 +749,92 @@ func main() {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       GITHUB STATS                                -->
+<!--                        GitHub 数据                                 -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20%2Fvar%2Flog%2Fstats%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fvar%2Flog%2Fstats%20%E6%95%B0%E6%8D%AE%E7%BB%9F%E8%AE%A1%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yuanshikai168&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanshikai168&layout=compact&theme=github_dark&langs_count=8&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="Top Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=yuanshikai168&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&text_color=C9D1D9" alt="GitHub 数据" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yuanshikai168&layout=compact&theme=github_dark&langs_count=8&hide_border=true&border_radius=10&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9" alt="常用语言" height="170"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuanshikai168&theme=dark&hide_border=true&border_radius=10&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=D29922&currStreakLabel=58A6FF" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yuanshikai168&theme=dark&hide_border=true&border_radius=10&background=0D1117&stroke=1F6FEB&ring=58A6FF&fire=D29922&currStreakLabel=58A6FF" alt="连续贡献" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yuanshikai168&theme=algolia&no-frame=true&margin-w=15&row=1&column=7" alt="Trophies" />
+  <img src="https://github-profile-trophy.vercel.app/?username=yuanshikai168&theme=algolia&no-frame=true&margin-w=15&row=1&column=7" alt="成就奖杯" />
 </p>
 
-#### `>` Contribution Heatmap
+#### `>` 贡献热力图
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/58A6FF/yuanshikai168" alt="Contribution Graph" width="100%" />
+  <img src="https://ghchart.rshah.org/58A6FF/yuanshikai168" alt="贡献图" width="100%" />
 </p>
 
-#### `>` Recent Activity
+#### `>` 近期活动
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuanshikai168&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" alt="Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yuanshikai168&bg_color=0D1117&color=58A6FF&line=1F6FEB&point=58A6FF&area=true&hide_border=true" alt="活动图" width="100%" />
 </p>
 
-#### `>` Snake Eats My Contributions
-
+<!-- 贪吃蛇动画需要配置 GitHub Action 生成，暂时注释
 <p align="center">
-  <img src="https://raw.githubusercontent.com/yuanshikai168/yuanshikai168/output/github-contribution-grid-snake-dark.svg" alt="Snake Animation" />
+  <img src="https://raw.githubusercontent.com/yuanshikai168/yuanshikai168/output/github-contribution-grid-snake-dark.svg" alt="蛇吃贡献动画" />
 </p>
+-->
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      RECENT BLOG POSTS                            -->
+<!--                        博客文章                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20%2Fhome%2Fblog%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fhome%2Fblog%20%E5%8D%9A%E5%AE%A2%E6%96%87%E7%AB%A0%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  RECENT ARTICLES                                                             ║
+║  最近文章                                                                    ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  📄  [2026-05-18]  Building Resilient Microservices with Go                  ║
-║       用 Go 构建高韧性微服务                                                 ║
-║       #microservices #go #resilience #distributed-systems                    ║
+║  📄  [2026-05-18]  用 Go 构建高韧性微服务                                    ║
+║       微服务容错与弹性架构实践                                               ║
+║       #微服务 #Go #容错 #分布式系统                                          ║
 ║                                                                              ║
-║  📄  [2026-05-05]  Zero Trust Architecture: A Practical Guide               ║
-║       零信任架构实战指南                                                     ║
-║       #security #zero-trust #architecture #best-practices                    ║
+║  📄  [2026-05-05]  零信任架构实战指南                                        ║
+║       从理论到落地的完整安全体系                                             ║
+║       #安全 #零信任 #架构 #最佳实践                                          ║
 ║                                                                              ║
-║  📄  [2026-04-22]  Kubernetes Cost Optimization: Save 40% on Cloud Bills     ║
-║       K8s 成本优化：省下 40% 云账单                                          ║
-║       #kubernetes #cloud #cost-optimization #devops                          ║
+║  📄  [2026-04-22]  K8s 成本优化：省下 40% 云账单                             ║
+║       Kubernetes 集群资源精细化运营                                          ║
+║       #Kubernetes #云原生 #成本优化 #DevOps                                  ║
 ║                                                                              ║
-║  📄  [2026-04-10]  From Monolith to Microservices: Migration Playbook       ║
-║       从单体到微服务：迁移实战手册                                           ║
-║       #migration #architecture #refactoring #case-study                      ║
+║  📄  [2026-04-10]  从单体到微服务：迁移实战手册                              ║
+║       大规模系统重构的完整路径                                               ║
+║       #迁移 #架构 #重构 #案例分析                                            ║
 ║                                                                              ║
-║  >>> More articles at blog.yuanshikai168.dev                                 ║
+║  >>> 更多文章请访问 blog.yuanshikai168.dev                                   ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                       DEV SETUP                                   -->
+<!--                        开发环境                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20%2Fetc%2Fsetup%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fetc%2Fsetup%20%E5%BC%80%E5%8F%91%E7%8E%AF%E5%A2%83%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
@@ -845,18 +847,18 @@ func main() {
 ```
        _,met$$$$$gg.           yuanshikai168@devstation
     ,g$$$$$$$$$$$$$$$P.       ──────────────────────────
-  ,g$$P"     """Y$$.".        OS:      Arch Linux x86_64
- ,$$P'              `$$$.      Kernel:  6.7.0-zen
-',$$P       ,ggs.     `$$b:    Shell:   zsh 5.9
-`d$$'     ,$P"'   .    $$$     Editor:  Neovim / VS Code
- $$P      d$'     ,    $$P     Terminal: Alacritty + tmux
- $$:      $$.   -    ,d$$'     Theme:   Tokyo Night
- $$;      Y$b._   _,d$P'       Font:    JetBrains Mono NF
- Y$$.    `.`"Y$$$$P"'          CPU:     AMD Ryzen 9 7950X
- `$$b      "-.__               GPU:     NVIDIA RTX 4090
-  `Y$$                         RAM:     64 GB DDR5
-   `Y$$.                       Disk:    2 TB NVMe SSD
-     `$$b.                     Uptime:  ∞ (coffee-powered)
+  ,g$$P"     """Y$$.".        系统:     Arch Linux x86_64
+ ,$$P'              `$$$.      内核:     6.7.0-zen
+',$$P       ,ggs.     `$$b:    终端:     zsh 5.9
+`d$$'     ,$P"'   .    $$$     编辑器:   Neovim / VS Code
+ $$P      d$'     ,    $$P     模拟器:   Alacritty + tmux
+ $$:      $$.   -    ,d$$'     主题:     Tokyo Night
+ $$;      Y$b._   _,d$P'       字体:     JetBrains Mono NF
+ Y$$.    `.`"Y$$$$P"'          处理器:   AMD Ryzen 9 7950X
+ `$$b      "-.__               显卡:     NVIDIA RTX 4090
+  `Y$$                         内存:     64 GB DDR5
+   `Y$$.                       硬盘:     2 TB NVMe SSD
+     `$$b.                     运行:     ∞ (咖啡因驱动)
        `Y$$b.
           `"Y$b._
               `"""
@@ -869,33 +871,33 @@ func main() {
 
 ```json
 {
-  "terminal": {
-    "emulator":    "Alacritty",
-    "multiplexer": "tmux",
-    "shell":       "zsh + starship"
+  "终端": {
+    "模拟器":    "Alacritty",
+    "复用器":    "tmux",
+    "命令行":    "zsh + starship"
   },
-  "editor": {
-    "primary":     "Neovim + LazyVim",
-    "secondary":   "VS Code",
-    "font":        "JetBrains Mono NF",
-    "theme":       "Tokyo Night"
+  "编辑器": {
+    "主力":      "Neovim + LazyVim",
+    "备用":      "VS Code",
+    "字体":      "JetBrains Mono NF",
+    "主题":      "Tokyo Night"
   },
-  "productivity": {
-    "notes":       "Obsidian",
-    "diagrams":    "Excalidraw",
-    "api_test":    "HTTPie + Bruno",
-    "db_client":   "DBeaver"
+  "效率工具": {
+    "笔记":      "Obsidian",
+    "绘图":      "Excalidraw",
+    "接口测试":  "HTTPie + Bruno",
+    "数据库":    "DBeaver"
   },
-  "devops": {
-    "ci_cd":       "GitHub Actions",
-    "iac":         "Terraform + Pulumi",
-    "monitoring":  "Grafana Stack",
-    "containers":  "Docker + Podman"
+  "运维": {
+    "持续集成":  "GitHub Actions",
+    "基础设施":  "Terraform + Pulumi",
+    "监控":      "Grafana Stack",
+    "容器":      "Docker + Podman"
   },
-  "hardware": {
-    "keyboard":    "Keychron Q1 Pro",
-    "mouse":       "Logitech MX Master 3S",
-    "monitor":     "LG 32UN880 4K"
+  "硬件": {
+    "键盘":      "Keychron Q1 Pro",
+    "鼠标":      "Logitech MX Master 3S",
+    "显示器":    "LG 32UN880 4K"
   }
 }
 ```
@@ -907,87 +909,87 @@ func main() {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      CONTRIBUTING                                 -->
+<!--                        贡献指南                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20%2Fdev%2Fcontribute%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fdev%2Fcontribute%20%E8%B4%A1%E7%8C%AE%E6%8C%87%E5%8D%97%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  CONTRIBUTION WORKFLOW                                                       ║
+║  贡献工作流                                                                  ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  Fork ──▶ Clone ──▶ Branch ──▶ Code ──▶ Test ──▶ Commit ──▶ Push ──▶ PR   ║
+║  复刻 ──▶ 克隆 ──▶ 分支 ──▶ 编码 ──▶ 测试 ──▶ 提交 ──▶ 推送 ──▶ PR       ║
 ║                                                                              ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  Branch Naming:   feature/xxx · fix/xxx · docs/xxx · refactor/xxx           ║
-║  Commit Format:   Conventional Commits (feat/fix/docs/style/refactor/...)   ║
-║  PR Requirements: CI pass + >= 1 approval + coverage >= 80%                 ║
+║  分支命名:   feature/xxx · fix/xxx · docs/xxx · refactor/xxx                ║
+║  提交格式:   约定式提交 (feat/fix/docs/style/refactor/...)                  ║
+║  PR 要求:    CI 通过 + 至少 1 个审批 + 覆盖率 >= 80%                        ║
 ║                                                                              ║
-║  Full guide: CONTRIBUTING.md                                                 ║
+║  完整指南: CONTRIBUTING.md                                                   ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
 ```
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                      CI / CD PIPELINE                             -->
+<!--                        CI/CD 流水线                                -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20%2Fdev%2Fpipeline%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fdev%2Fpipeline%20%E6%B5%81%E6%B0%B4%E7%BA%BF%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
 ```
-  Push / PR
+  推送 / PR
      │
      ▼
   ╔══════════════╗     ╔══════════════╗     ╔══════════════╗
-  ║  🔍 LINT     ║────▶║  🧪 TEST     ║────▶║  📊 QUAL     ║
+  ║  🔍 代码检查  ║────▶║  🧪 自动化测试║────▶║  📊 质量分析  ║
   ║ Super-Linter ║     ║ pytest/jest  ║     ║  SonarQube   ║
   ╚══════════════╝     ╚══════════════╝     ╚══════════════╝
                                                   │
                                                   ▼
   ╔══════════════╗     ╔══════════════╗     ╔══════════════╗
-  ║  ✅ DEPLOY   ║◀────║  🐳 BUILD    ║◀────║  🛡️  SEC     ║
-  ║   Release    ║     ║   Docker     ║     ║ Trivy+OWASP  ║
+  ║  ✅ 发布部署  ║◀────║  🐳 构建镜像  ║◀────║  🛡️ 安全扫描  ║
+  ║    正式发布   ║     ║   Docker     ║     ║ Trivy+OWASP  ║
   ╚══════════════╝     ╚══════════════╝     ╚══════════════╝
 ```
 
-> Config: [.github/workflows/ci.yml](.github/workflows/ci.yml)
+> 配置文件: [.github/workflows/ci.yml](.github/workflows/ci.yml)
 
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        CONTACT                                    -->
+<!--                        联系我                                      -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/───%20%2Fdev%2Ftcp%2Fconnect%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
+<img src="https://img.shields.io/badge/───%20%2Fdev%2Ftcp%2Fconnect%20%E8%81%94%E7%B3%BB%E6%88%91%20───-0D1117?style=for-the-badge&labelColor=0D1117" width="100%" />
 
 </div>
 
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
-║  ESTABLISHING CONNECTION...                                                  ║
+║  正在建立连接...                                                             ║
 ╠══════════════════════════════════════════════════════════════════════════════╣
 ║                                                                              ║
-║  📧  Email       hello@example.com                                           ║
+║  📧  邮箱        hello@example.com                                           ║
 ║  🐙  GitHub      github.com/yuanshikai168                                    ║
 ║  💼  LinkedIn    linkedin.com/in/yourprofile                                 ║
 ║  🐦  Twitter     twitter.com/yourhandle                                      ║
-║  🐛  Issues      github.com/yuanshikai168/yuanshikai168/issues              ║
-║  💬  Discuss     github.com/yuanshikai168/yuanshikai168/discussions          ║
+║  🐛  问题反馈    github.com/yuanshikai168/yuanshikai168/issues              ║
+║  💬  社区讨论    github.com/yuanshikai168/yuanshikai168/discussions          ║
 ║                                                                              ║
-║  Connection established. Awaiting input...                                    ║
+║  连接已建立，等待输入...                                                     ║
 ║                                                                              ║
 ║  yuanshikai168@github:~$  _                                                  ║
 ╚══════════════════════════════════════════════════════════════════════════════╝
@@ -1003,7 +1005,7 @@ func main() {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                        QUOTES                                     -->
+<!--                        技术名言                                    -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
@@ -1011,8 +1013,8 @@ func main() {
 ```
 ╔══════════════════════════════════════════════════════════════════════════════╗
 ║                                                                              ║
-║   "There are only two hard things in Computer Science:                       ║
-║    cache invalidation and naming things."                                    ║
+║   "计算机科学只有两件难事：                                                   ║
+║    缓存失效和命名。"                                                         ║
 ║                                                                              ║
 ║                                            — Phil Karlton                   ║
 ║                                                                              ║
@@ -1020,17 +1022,17 @@ func main() {
 ```
 
 <details>
-<summary><b>💬 More quotes</b></summary>
+<summary><b>💬 更多名言</b></summary>
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"先解决问题，再写代码。"* — John Johnson
 
-> *"Security is not a product, but a process."* — Bruce Schneier
+> *"安全不是产品，而是一个过程。"* — Bruce Schneier
 
-> *"Any fool can write code that a computer can understand. Good programmers write code that humans can understand."* — Martin Fowler
+> *"任何傻瓜都能写出计算机能理解的代码。优秀的程序员写出人类能理解的代码。"* — Martin Fowler
 
-> *"The best error message is the one that never shows up."* — Thomas Fuchs
+> *"最好的错误提示就是永远不会出现的那个。"* — Thomas Fuchs
 
-> *"Talk is cheap. Show me the code."* — Linus Torvalds
+> *"废话少说，放码过来。"* — Linus Torvalds
 
 </details>
 
@@ -1039,34 +1041,34 @@ func main() {
 <br/>
 
 <!-- ═══════════════════════════════════════════════════════════════════ -->
-<!--                         FOOTER                                    -->
+<!--                        底部                                        -->
 <!-- ═══════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=160&section=footer&text=Made%20with%20%E2%9D%A4%EF%B8%8F%20by%20yuanshikai168&fontSize=24&fontColor=58A6FF&animation=twinkling&fontAlignY=38&desc=%22Code+is+law.+Security+is+religion.+Innovation+is+evolution.%22&descAlignY=62" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0D1117&height=160&section=footer&text=%E7%94%B1%20yuanshikai168%20%E7%94%A8%20%E2%9D%A4%EF%B8%8F%20%E6%89%93%E9%80%A0&fontSize=24&fontColor=58A6FF&animation=twinkling&fontAlignY=38&desc=%22%E4%BB%A3%E7%A0%81%E5%8D%B3%E6%B3%95%E5%BE%8B%EF%BC%8C%E5%AE%89%E5%85%A8%E5%8D%B3%E4%BF%A1%E4%BB%B0%EF%BC%8C%E5%88%9B%E6%96%B0%E5%8D%B3%E8%BF%9B%E5%8C%96%E3%80%82%22&descAlignY=62" width="100%" />
 
 <p>
   <a href="https://github.com/yuanshikai168/yuanshikai168/stargazers">
-    <img src="https://img.shields.io/github/stars/yuanshikai168/yuanshikai168?style=social" alt="stars" />
+    <img src="https://img.shields.io/github/stars/yuanshikai168/yuanshikai168?style=social" alt="星标" />
   </a>
   <a href="https://github.com/yuanshikai168/yuanshikai168/network/members">
-    <img src="https://img.shields.io/github/forks/yuanshikai168/yuanshikai168?style=social" alt="forks" />
+    <img src="https://img.shields.io/github/forks/yuanshikai168/yuanshikai168?style=social" alt="复刻" />
   </a>
-  <img src="https://img.shields.io/github/license/yuanshikai168/yuanshikai168?style=flat-square&color=238636&label=License" alt="license" />
+  <img src="https://img.shields.io/github/license/yuanshikai168/yuanshikai168?style=flat-square&color=238636&label=许可证" alt="许可证" />
 </p>
 
 ```
 ╔══════════════════════════════════════════════════╗
 ║                                                  ║
-║   If this profile inspired you, drop a ⭐ !      ║
-║   Fork it, remix it, make it your own.           ║
+║   如果这个主页启发了你，留个 ⭐ 吧！              ║
+║   复刻它，改造它，让它成为你自己的。              ║
 ║                                                  ║
 ╚══════════════════════════════════════════════════╝
 ```
 
 <p>
-  <a href="#"><b>⬆ Back to Top</b></a>
+  <a href="#"><b>⬆ 回到顶部</b></a>
 </p>
 
 </div>
