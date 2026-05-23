@@ -7,14 +7,24 @@ on:
     branches: [ main ]
 
 jobs:
-  build:
+  lint:
+    name: Lint
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
+      - name: Run Super-Linter
+        uses: github/super-linter@v5
+        env:
+          VALIDATE_MARKDOWN: true
+          DEFAULT_BRANCH: main
+
+  build:
+    name: Build (placeholder)
+    runs-on: ubuntu-latest
+    needs: lint
+    steps:
+      - uses: actions/checkout@v4
       - name: Setup
-        run: echo "Setting up minimal CI"
-      - name: Lint Markdown
-        run: |
-          echo "No linter configured — placeholder step"
+        run: echo "Building project - placeholder"
       - name: CI Success
         run: echo "CI checks passed"

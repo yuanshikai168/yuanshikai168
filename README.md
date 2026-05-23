@@ -62,7 +62,9 @@ cd yuanshikai168
 ## 📸 展示
 
 <div align="center">
-  <img src="https://via.placeholder.com/900x260/0b1020/9fb7d8?text=Project+Showcase+%7C+Dark+Preview" alt="showcase" style="border-radius:6px;" />
+  <img src="assets/showcase.png" alt="showcase" style="border-radius:6px;max-width:100%;background:#0b1020;padding:6px;" />
+  
+  <p style="color:#9fb7d8">将你的项目截图放到 `assets/showcase.png`（建议 900x260px），我会把它替换到此处。</p>
 </div>
 
 ---
