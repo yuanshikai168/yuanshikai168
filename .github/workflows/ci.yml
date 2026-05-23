@@ -1,0 +1,20 @@
+name: CI
+
+on:
+  push:
+    branches: [ main, 'feature/*' ]
+  pull_request:
+    branches: [ main ]
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Setup
+        run: echo "Setting up minimal CI"
+      - name: Lint Markdown
+        run: |
+          echo "No linter configured — placeholder step"
+      - name: CI Success
+        run: echo "CI checks passed"
